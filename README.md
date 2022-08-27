@@ -1,4 +1,4 @@
-#### Spotify非中文歌词翻译 Surge和Loon需要iOS15 (仓库地址: https://github.com/app2smile/rules)
+#### Spotify非中文歌词翻译 Surge和Loon需要iOS15 
 
 #### 采用百度翻译接口进行翻译,需要先免费申请百度翻译api的id和密钥,然后根据不同软件进行不同配置
 
